@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Dev Karan – Next.js Developer
 
-<!--
-**KaranCodeCraft/karanCodeCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack JavaScript Developer with **3 years of professional experience**, specializing in **Next.js** and the modern web ecosystem. I've worked with a wide range of clients and companies across industries including:
 
-Here are some ideas to get you started:
+- 🎓 Educational Institutions & Universities
+- 🏢 Real Estate
+- 🛍️ Fashion & Jewelry Stores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- ✨ Build responsive, scalable, and high-performing **websites** & **e-commerce platforms**
+- 🧠 Develop full-fledged **ERP systems** for universities and educational platforms
+- 📊 Create robust **admin dashboards** and **content management systems**
+- 📱 Develop cross-platform **mobile apps using React Native**
+- 🎥 Implement custom **video verification systems**
+
+## 🛠️ Tech Stack
+
+### 🔹 Main Stack
+- **Frontend**: Next.js, React, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB
+
+### 🔸 Secondary Skills
+- PHP, Laravel, Python 
+- WordPress  
+- PostgreSQL
+
+## 📫 Let's Connect
+
+Feel free to reach out if you're looking to build something amazing, collaborate, or just chat about tech.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/devkaran-webdeveloper/)
+- 📧 [Email](mailto:dev882624@gmail.com)
+
+---
+
+Thanks for stopping by! ⭐
